@@ -1,0 +1,1 @@
+export { useGetDataOnLoad } from './fetchOnLoad'

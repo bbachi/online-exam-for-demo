@@ -1,0 +1,6 @@
+export { LimitSvg } from './LimitSvg'
+export { CalenderSvg } from './CalenderSvg'
+export { TimeSvg } from './TimeSvg'
+export { HomeSvg } from './HomeSvg'
+export { MyExamSvg } from './MyExamSvg'
+export { MyReportsSvg } from './MyReportsSvg'
